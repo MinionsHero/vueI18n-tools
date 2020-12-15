@@ -1,0 +1,16 @@
+{
+  "transfer": {
+    "pwdLabel": "Fund Password",
+    "pwdDef": "Please enter",
+    "pwdRule": "Invalid fund password",
+    "smsLabel": "SMS Code",
+    "smsDef": "Please enter",
+    "smsRule": "Invalid SMS code",
+    "emailLabel": "Email Verification Code",
+    "emailDef": "Please enter",
+    "emailRule": "Invalid verification code",
+    "googleLabel": "Google Code",
+    "googleDef": "Please enter",
+    "googleRule": "Invalid Google code"
+  }
+}

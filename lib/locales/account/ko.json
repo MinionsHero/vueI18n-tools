@@ -1,0 +1,16 @@
+{
+  "transfer": {
+    "pwdLabel": "자금 비밀번호",
+    "pwdDef": "자금 비밀번호를 입력하십시오",
+    "pwdRule": "자금 비밀번호 오류",
+    "smsLabel": "인증 번호",
+    "smsDef": "인증번호를 입력하십시오",
+    "smsRule": "인증번호 오류",
+    "emailLabel": "이메일 인증번호",
+    "emailDef": "이메일 인증번호를 입력하십시오",
+    "emailRule": "이메일 인증번호 오류",
+    "googleLabel": "구글 인증번호",
+    "googleDef": "구글 인증번호를 입력하십시오",
+    "googleRule": "구글 인증번호 오류"
+  }
+}

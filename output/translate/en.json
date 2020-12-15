@@ -1,0 +1,72 @@
+{
+  "58main": {
+    "header.deposit": "Deposit",
+    "header.withdraw": "Withdraw",
+    "users.authTip": "According to the national regulatory policy on virtual currency transactions, users need to complete Identity Verification before being able to do any cash Withdraw operations.",
+    "users.modifyWithdraw": "Used for password change, second withdraw confirmation, etc.",
+    "users.resetFundPasswordTip": "Tips: No withdraw is available within 24 hours after funds password reset, nor can be realized by manual release.",
+    "users.makeMoneySuccess": "Digital currency withdraw successful",
+    "users.makeMoneyFail": "Digital currency withdraw failed",
+    "users.tradingAndWithdrawals": "For trading and withdraw",
+    "users.modifyTips": "Tips: Withdraw is not available within 24 hours after changing phone number, nor can be realized by manual release.",
+    "account.depositAddress": "Deposit address",
+    "account.depositAddressTip": "Note: After deposit, please check the account status",
+    "account.depositAgree": "Deposit notice",
+    "account.depositAgree1": "Use {currency} address to deposit requires {amount} network confirmation to make the transfer, use internal station account transfer doesn't require network confirmation, can be done in real-time.",
+    "account.depositAgree3": "Minimum deposit amount is {amount} {currency}, deposit less than {amount} {currency} will not reach to the account.",
+    "account.depositAgree4": "Please do not deposit any non-{currency} assets to the above address, otherwise the assets will not be recovered.",
+    "account.depositAgree5": "Deposit {currency} to 58COIN requires a deposit address and label, please be sure to fill in and check carefully. Please note that assets will not be recovered if you fill in wrong address or label.",
+    "account.getWithdrawAddress": "Withdraw to {coin} address",
+    "account.withdrawAmount": "Amount",
+    "account.placeWithdrawNumber": "Please input the withdraw amount",
+    "account.withdrawRecord": "Withdraw records",
+    "account.depositRecord": "Deposit records",
+    "account.tenWithdrawRecord": "The last 10 withdraw records",
+    "account.withdrawDate": "Time",
+    "account.withdrawNumber": "Withdraw account",
+    "account.withdrawAddress": "Address",
+    "account.trustMessage": "Withdraw from trusted account will no longer require funds password,SMS verification code and Google verification code",
+    "account.takeFeeMessage": "The withdraw fee will be deducted from the cash withdraw amount",
+    "account.takeFeeMessageLength": "Processing fee is set to the maximum this time. We will increase the theoretical transfer speed to your account according to the optimal system logic and minimize your withdraw fee. The processing fee will be based on the actual handling fee in the withdraw record.",
+    "account.makeMoney": "Digital currency withdraw",
+    "account.rechargeRecord": "10 recent deposit records",
+    "account.rechargeAddress": "Deposit address or Txid",
+    "account.addressTip": "Check the deposit status in Deposit & Withdraw account.",
+    "account.58BTips": "It cannot be withdrawed to external address",
+    "account.riskWarningContent": "The full name of UCC is UniChange Coin, please check carefully before deposit. Any non-UniChange Coin assets deposit to this address will not be recovered.",
+    "errorMessage.drawNumber": "Please enter the correct withdraw amount",
+    "promptInformation.withdrawalAmount": "Please enter the withdraw amount",
+    "promptInformation.minimumCash": "The minimum withdraw amount is 100",
+    "promptInformation.amountLimit": "Withdraw amount cannot exceed account balance",
+    "promptInformation.videoCertification": "Withdraw amount greater than 5,000 requires video verification",
+    "errorCode.142": "Cannot withdraw to external address",
+    "errorCode.211": "Withdraw of this coin is suspended",
+    "errorCode.212": "Withdraw of this coin is suspended, please contact the customer service.",
+    "errorCode.0001": "Withdraw application successful",
+    "depositStatus.successed": "Successful",
+    "depositStatus.failed": "Deposit Failed",
+    "typeList.fee": "Withdraw Fees",
+    "status.withdraw5": "Processing"
+  },
+  "58new-spot": {
+    "depositStates.SUCCESSED": "Successful Deposit"
+  },
+  "new-swap": {},
+  "58c2c-loan": {
+    "header.withdraw": "Withdrawal",
+    "promptInformation.withdrawalAmount": "Please enter the withdrawal amount",
+    "promptInformation.minimumCash": "The minimum withdrawal amount is 100",
+    "promptInformation.amountLimit": "Withdrawal amount cannot exceed account balance",
+    "promptInformation.videoCertification": "Withdrawal amount greater than 5,000 requires video verification",
+    "errorMessage.drawNumber": "Please enter the correct withdrawal amount"
+  },
+  "58nuxt-usdt": {
+    "depositStates.FAILED": " Failed",
+    "reference.overview.paragraph3.p4": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span><a href=\"/information\" style=\"color: #597ab9\">Asset Information</a>: This tab displays all your account information such as current Bitcoin Available Margin Balances, Deposit and Withdrawal information, Trade History and Affiliate information.",
+    "reference.questions.paragraph4.p4": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span>Is there a fee to withdraw Bitcoin?",
+    "reference.questions.paragraph5.p3": "Under the Account tab, click on Wallet and select the corresponding deposit link where you will be provided a multi-signature address to deposit Bitcoin. After 1 confirmation, funds will be credited to your account."
+  },
+  "58half": {
+    "reference.overview.paragraph3.p4": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span><a href=\"/information\" style=\"color: #597ab9\">Asset Information</a>: This tab displays all your account information such as current Bitcoin Available Margin Balances, Deposit and Withdraw information, Trade History and Affiliate information."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "transfer": {
+    "pwdLabel": "Платежный пароль ",
+    "pwdDef": "Введите платежный пароль",
+    "pwdRule": "Неправильный пароль",
+    "smsLabel": "Смс подтверждение",
+    "smsDef": "Получить код",
+    "smsRule": "Ошибка кода",
+    "emailLabel": "Email подтверждение",
+    "emailDef": "Получить код",
+    "emailRule": "Ошибка кода",
+    "googleLabel": "Google подтверждение",
+    "googleDef": "Введите Google код",
+    "googleRule": "Ошибка кода"
+  }
+}

@@ -1,0 +1,1797 @@
+[
+  {
+    "value": "充值",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "account.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "safeNotice.safeNoticeName3"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "action.cz"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "typeList.cz"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "cn",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "cn",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "cn",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "cn",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "cn",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "cn",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58half",
+        "lang": "cn",
+        "key": "header.deposit"
+      }
+    ]
+  },
+  {
+    "value": "提现",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "account.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "safeNotice.safeNoticeName4"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "action.tx"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "typeList.tx"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "cn",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "cn",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "cn",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "cn",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "cn",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "cn",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58half",
+        "lang": "cn",
+        "key": "header.withdraw"
+      }
+    ]
+  },
+  {
+    "value": "提现数量",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "account.withdrawAmount"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "account.actualAmount"
+      }
+    ]
+  },
+  {
+    "value": "请输入提现数量",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "account.placeWithdrawNumber"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "promptInformation.drawTheNumber"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "cn",
+        "key": "promptInformation.drawTheNumber"
+      }
+    ]
+  },
+  {
+    "value": "UCC 全称为 UniChange Coin，充值前请仔细核对，向该地址充值任何非 UniChange Coin 资产，资产将不可找回。",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "account.riskWarningContent"
+      },
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "account.UCCAddressTip"
+      }
+    ]
+  },
+  {
+    "value": "请输入正确的提现数量",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "errorMessage.drawNumber"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "cn",
+        "key": "errorMessage.drawNumber"
+      }
+    ]
+  },
+  {
+    "value": "请输入提现金额",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "promptInformation.withdrawalAmount"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "cn",
+        "key": "promptInformation.withdrawalAmount"
+      }
+    ]
+  },
+  {
+    "value": "最低提现额度为100",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "promptInformation.minimumCash"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "cn",
+        "key": "promptInformation.minimumCash"
+      }
+    ]
+  },
+  {
+    "value": "提现金额不能超过账户余额",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "promptInformation.amountLimit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "cn",
+        "key": "promptInformation.amountLimit"
+      }
+    ]
+  },
+  {
+    "value": "提现金额大于5000需要进行视频认证",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "promptInformation.videoCertification"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "cn",
+        "key": "promptInformation.videoCertification"
+      }
+    ]
+  },
+  {
+    "value": "充值成功",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "depositStatus.successed"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "cn",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "cn",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "cn",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "cn",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "cn",
+        "key": "depositStates.SUCCESSED"
+      }
+    ]
+  },
+  {
+    "value": "充值失败",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "cn",
+        "key": "depositStatus.failed"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "cn",
+        "key": "depositStates.FAILED"
+      }
+    ]
+  },
+  {
+    "value": " 充值失败",
+    "keys": [
+      {
+        "projectName": "new-swap",
+        "lang": "cn",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "cn",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "cn",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "cn",
+        "key": "depositStates.FAILED"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span><a href=\"/information\" style=\"color: #597ab9\">资产信息</a>︰此选项卡显示所有你的帐户信息，如当前比特币和可用保证金余额，存款、提现信息、 交易历史和推荐计划信息。",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "cn",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "cn",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "cn",
+        "key": "reference.overview.paragraph3.p4"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span>提现比特币需要费用么？",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "cn",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "cn",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "cn",
+        "key": "reference.questions.paragraph4.p4"
+      }
+    ]
+  },
+  {
+    "value": "在 “账户” 选项卡下，点击钱包，选择相应币种充值链接，然后你会得到一个多重签名的比特币存款地址。 在一个网络确认后，资金将存入你的帐户。",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "cn",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "cn",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58half",
+        "lang": "cn",
+        "key": "reference.questions.paragraph5.p3"
+      }
+    ]
+  },
+  {
+    "value": "Deposit",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "account.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "safeNotice.safeNoticeName3"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "action.cz"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "typeList.cz"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "en",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "en",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "en",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "en",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "en",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "en",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58half",
+        "lang": "en",
+        "key": "header.deposit"
+      }
+    ]
+  },
+  {
+    "value": "Withdraw",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "account.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "safeNotice.safeNoticeName4"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "action.tx"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "typeList.tx"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "en",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "en",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "en",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58half",
+        "lang": "en",
+        "key": "header.withdraw"
+      }
+    ]
+  },
+  {
+    "value": "Amount",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "account.withdrawAmount"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "account.actualAmount"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "account.rechargeQuantity"
+      }
+    ]
+  },
+  {
+    "value": "The full name of UCC is UniChange Coin, please check carefully before deposit. Any non-UniChange Coin assets deposit to this address will not be recovered.",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "account.riskWarningContent"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "account.UCCAddressTip"
+      }
+    ]
+  },
+  {
+    "value": "Please enter the withdraw amount",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "promptInformation.withdrawalAmount"
+      },
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "promptInformation.drawTheNumber"
+      }
+    ]
+  },
+  {
+    "value": "Successful",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "depositStatus.successed"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "en",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "en",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "en",
+        "key": "depositStates.SUCCESSED"
+      }
+    ]
+  },
+  {
+    "value": "Deposit Failed",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "en",
+        "key": "depositStatus.failed"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "en",
+        "key": "depositStates.FAILED"
+      }
+    ]
+  },
+  {
+    "value": "Withdrawal",
+    "keys": [
+      {
+        "projectName": "58c2c-loan",
+        "lang": "en",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "en",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "en",
+        "key": "header.withdraw"
+      }
+    ]
+  },
+  {
+    "value": "Please enter the withdrawal amount",
+    "keys": [
+      {
+        "projectName": "58c2c-loan",
+        "lang": "en",
+        "key": "promptInformation.withdrawalAmount"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "en",
+        "key": "promptInformation.drawTheNumber"
+      }
+    ]
+  },
+  {
+    "value": " Failed",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "en",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "en",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "en",
+        "key": "depositStates.FAILED"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span><a href=\"/information\" style=\"color: #597ab9\">Asset Information</a>: This tab displays all your account information such as current Bitcoin Available Margin Balances, Deposit and Withdrawal information, Trade History and Affiliate information.",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "en",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "en",
+        "key": "reference.overview.paragraph3.p4"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span>Is there a fee to withdraw Bitcoin?",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "en",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "en",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "en",
+        "key": "reference.questions.paragraph4.p4"
+      }
+    ]
+  },
+  {
+    "value": "Under the Account tab, click on Wallet and select the corresponding deposit link where you will be provided a multi-signature address to deposit Bitcoin. After 1 confirmation, funds will be credited to your account.",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "en",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "en",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58half",
+        "lang": "en",
+        "key": "reference.questions.paragraph5.p3"
+      }
+    ]
+  },
+  {
+    "value": "入金",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "account.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "safeNotice.safeNoticeName3"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "action.cz"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "typeList.cz"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "ja",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "ja",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "ja",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ja",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ja",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ja",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ja",
+        "key": "header.deposit"
+      }
+    ]
+  },
+  {
+    "value": "出金",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "account.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "account.makeMoney"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "safeNotice.safeNoticeName4"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "action.tx"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "typeList.tx"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "ja",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "ja",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "ja",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ja",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ja",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ja",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ja",
+        "key": "header.withdraw"
+      }
+    ]
+  },
+  {
+    "value": "出金数量を入力してください",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "account.placeWithdrawNumber"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "promptInformation.drawTheNumber"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ja",
+        "key": "promptInformation.drawTheNumber"
+      }
+    ]
+  },
+  {
+    "value": "UCC のフルネームが UniChange Coinであり、チャージする前によく確認してください。こちらのアドレスに非UniChange Coin資産をチャージしてしまったら、戻すことはできません。",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "account.riskWarningContent"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "account.UCCAddressTip"
+      }
+    ]
+  },
+  {
+    "value": "正しい出金数量を入力してください",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "errorMessage.drawNumber"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ja",
+        "key": "errorMessage.drawNumber"
+      }
+    ]
+  },
+  {
+    "value": "出金金額を入力してください",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "promptInformation.withdrawalAmount"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ja",
+        "key": "promptInformation.withdrawalAmount"
+      }
+    ]
+  },
+  {
+    "value": "出金最小限は100",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "promptInformation.minimumCash"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ja",
+        "key": "promptInformation.minimumCash"
+      }
+    ]
+  },
+  {
+    "value": "振込金額は残高を超えることはできません",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "promptInformation.amountLimit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ja",
+        "key": "promptInformation.amountLimit"
+      }
+    ]
+  },
+  {
+    "value": "出金金額が5000を越えたらビデオ認証が必要です",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "promptInformation.videoCertification"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ja",
+        "key": "promptInformation.videoCertification"
+      }
+    ]
+  },
+  {
+    "value": "入金完了",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ja",
+        "key": "depositStatus.successed"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "ja",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ja",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ja",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ja",
+        "key": "depositStates.SUCCESSED"
+      }
+    ]
+  },
+  {
+    "value": " 入金失敗",
+    "keys": [
+      {
+        "projectName": "58new-spot",
+        "lang": "ja",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ja",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ja",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ja",
+        "key": "depositStates.FAILED"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span><a href=\"/reference\" style=\"color: #597ab9\">参考情報</a>︰このタブは 58 Swapの教育コーナーです。ここで、無期限契約、ポジションのマーク方法、清算の発生時期と方法、58 Swapの手数料やサポートについて学んだり、58 Swapを理解するのに役立つその他の情報豊富な資料を参照したりできます。",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ja",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ja",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ja",
+        "key": "reference.overview.paragraph3.p4"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span>ビットコインの出金に手数料はかかりますか？",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ja",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ja",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ja",
+        "key": "reference.questions.paragraph4.p4"
+      }
+    ]
+  },
+  {
+    "value": "アカウント」タブでウォレットをクリックして相応の銘柄チャージリンクをクリックすれば、マルチサインのビットコイン入金アドレスをもらえます。1 度確認手順を経た後、資金はお客様のアカウントに加算されます。",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ja",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ja",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ja",
+        "key": "reference.questions.paragraph5.p3"
+      }
+    ]
+  },
+  {
+    "value": "Депозит",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "account.deposit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ru",
+        "key": "header.deposit"
+      }
+    ]
+  },
+  {
+    "value": "Вывод средств",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "account.withdraw"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ru",
+        "key": "header.withdraw"
+      }
+    ]
+  },
+  {
+    "value": "Введите сумму",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "account.placeWithdrawNumber"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "promptInformation.withdrawalAmount"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ru",
+        "key": "promptInformation.withdrawalAmount"
+      }
+    ]
+  },
+  {
+    "value": "UCC - это UniChange Coin. Будьте внимательны при пополнении. Любые другие активы не будут возвращены в случаях пополнения этого адреса другими активами",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "account.riskWarningContent"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "account.UCCAddressTip"
+      }
+    ]
+  },
+  {
+    "value": "Введите правильную сумму ",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "errorMessage.drawNumber"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ru",
+        "key": "errorMessage.drawNumber"
+      }
+    ]
+  },
+  {
+    "value": "Минимум 100",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "promptInformation.minimumCash"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ru",
+        "key": "promptInformation.minimumCash"
+      }
+    ]
+  },
+  {
+    "value": "Не может превышать сумму доступных средств",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "promptInformation.amountLimit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ru",
+        "key": "promptInformation.amountLimit"
+      }
+    ]
+  },
+  {
+    "value": "Для вывода 5000 и более необходимо пройти видео подтверждение",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "promptInformation.videoCertification"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ru",
+        "key": "promptInformation.videoCertification"
+      }
+    ]
+  },
+  {
+    "value": "Введите выводимую сумму",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "promptInformation.drawTheNumber"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ru",
+        "key": "promptInformation.drawTheNumber"
+      }
+    ]
+  },
+  {
+    "value": "Пополнение",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "safeNotice.safeNoticeName3"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "action.cz"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "typeList.cz"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "ru",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "ru",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "ru",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ru",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ru",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ru",
+        "key": "header.deposit"
+      }
+    ]
+  },
+  {
+    "value": "Вывод",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "safeNotice.safeNoticeName4"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "action.tx"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ru",
+        "key": "typeList.tx"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "ru",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "ru",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "ru",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ru",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ru",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ru",
+        "key": "header.withdraw"
+      }
+    ]
+  },
+  {
+    "value": "Пополнение завершено",
+    "keys": [
+      {
+        "projectName": "58new-spot",
+        "lang": "ru",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ru",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ru",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ru",
+        "key": "depositStates.SUCCESSED"
+      }
+    ]
+  },
+  {
+    "value": " Ошибка пополнения",
+    "keys": [
+      {
+        "projectName": "58new-spot",
+        "lang": "ru",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ru",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ru",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ru",
+        "key": "depositStates.FAILED"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span><a href=\"/information\" style=\"color: #597ab9\">Информация об активах</a> - на этой вкладке отображаются вся информация о вашем аккаунте, в том числе текущий доступный баланс маржи в биткойнах, информация о депозитах и выведенных средствах, история сделок и партнерские программы, в которых вы участвуете",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ru",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ru",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ru",
+        "key": "reference.overview.paragraph3.p4"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span>Есть ли комиссии на вывод биткойнов? ",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ru",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ru",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ru",
+        "key": "reference.questions.paragraph4.p4"
+      }
+    ]
+  },
+  {
+    "value": "На вкладке «Аккаунт» нажмите на Кошелек, выберите ссылку на пополнение соответствующей валюты. После одного подтверждения средства будут зачислены на ваш счет",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ru",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ru",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ru",
+        "key": "reference.questions.paragraph5.p3"
+      }
+    ]
+  },
+  {
+    "value": "입금",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "account.deposit"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "safeNotice.safeNoticeName3"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "action.cz"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "typeList.cz"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "ko",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "ko",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "ko",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ko",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ko",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ko",
+        "key": "header.deposit"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ko",
+        "key": "header.deposit"
+      }
+    ]
+  },
+  {
+    "value": "출금",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "account.withdraw"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "safeNotice.safeNoticeName4"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "action.tx"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "typeList.tx"
+      },
+      {
+        "projectName": "58new-otc",
+        "lang": "ko",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "ko",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "new-swap",
+        "lang": "ko",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ko",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ko",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ko",
+        "key": "header.withdraw"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ko",
+        "key": "header.withdraw"
+      }
+    ]
+  },
+  {
+    "value": "출금 완료",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "users.makeMoneySuccess"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "errorCode.0001"
+      }
+    ]
+  },
+  {
+    "value": "출금 수량",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "account.withdrawAmount"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "promptInformation.drawTheNumber"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ko",
+        "key": "promptInformation.drawTheNumber"
+      }
+    ]
+  },
+  {
+    "value": "최근 10회",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "account.tenWithdrawRecord"
+      },
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "account.rechargeRecord"
+      }
+    ]
+  },
+  {
+    "value": "정확한 출금 수량을 입력하여 주십시오.",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "errorMessage.drawNumber"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ko",
+        "key": "errorMessage.drawNumber"
+      }
+    ]
+  },
+  {
+    "value": "출금 금액을 입력하여 주십시오.",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "promptInformation.withdrawalAmount"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ko",
+        "key": "promptInformation.withdrawalAmount"
+      }
+    ]
+  },
+  {
+    "value": "최소 출금 금액은 100원부터 입니다 ",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "promptInformation.minimumCash"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ko",
+        "key": "promptInformation.minimumCash"
+      }
+    ]
+  },
+  {
+    "value": "출금 가능한 금액를 초과할 수 없습니다. ",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "promptInformation.amountLimit"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ko",
+        "key": "promptInformation.amountLimit"
+      }
+    ]
+  },
+  {
+    "value": "출금 금액 5000원 이상부터 영상 인증이 필요합니다",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "promptInformation.videoCertification"
+      },
+      {
+        "projectName": "58c2c-loan",
+        "lang": "ko",
+        "key": "promptInformation.videoCertification"
+      }
+    ]
+  },
+  {
+    "value": "입금 완료",
+    "keys": [
+      {
+        "projectName": "58main",
+        "lang": "ko",
+        "key": "depositStatus.successed"
+      },
+      {
+        "projectName": "58new-spot",
+        "lang": "ko",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ko",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ko",
+        "key": "depositStates.SUCCESSED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ko",
+        "key": "depositStates.SUCCESSED"
+      }
+    ]
+  },
+  {
+    "value": " 입금 실패",
+    "keys": [
+      {
+        "projectName": "58new-spot",
+        "lang": "ko",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ko",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ko",
+        "key": "depositStates.FAILED"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ko",
+        "key": "depositStates.FAILED"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span><a href=\"/reference\" style=\"color: #597ab9\">자산 정보</a>︰이 탭에서는 계정의 모든 정보를 확인할 수 있습니다. 예: 현재 비트코인, 사용 가능 마진, 잔액, 입출금 정보, 거래 내역, 추천 계획 정보 등",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ko",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ko",
+        "key": "reference.overview.paragraph3.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ko",
+        "key": "reference.overview.paragraph3.p4"
+      }
+    ]
+  },
+  {
+    "value": "<span style=\"display: inline-block;margin-right:8px;width:6px;height:6px;border-radius: 3px;background-color: #888;\"></span>비트코인 출금 시 수수료가 있나요？",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ko",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ko",
+        "key": "reference.questions.paragraph4.p4"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ko",
+        "key": "reference.questions.paragraph4.p4"
+      }
+    ]
+  },
+  {
+    "value": "\"계정\" 탭에서 지갑 관리를 클릭하여 입금 버튼을 클릭하면 비트코인 입금을 위한 멀티 시그니처 주소 페이지로 이동됩니다. 1회 인증 후 자금은 계좌로 입금됩니다.",
+    "keys": [
+      {
+        "projectName": "58nuxt-usdt",
+        "lang": "ko",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58nuxt-mixed",
+        "lang": "ko",
+        "key": "reference.questions.paragraph5.p3"
+      },
+      {
+        "projectName": "58half",
+        "lang": "ko",
+        "key": "reference.questions.paragraph5.p3"
+      }
+    ]
+  }
+]

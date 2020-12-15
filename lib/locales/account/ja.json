@@ -1,0 +1,16 @@
+{
+  "transfer": {
+    "pwdLabel": "ファンドパスワード",
+    "pwdDef": "入力してください",
+    "pwdRule": "ファンドパスワード正しくない",
+    "smsLabel": " SMS検証コード",
+    "smsDef": "入力してください",
+    "smsRule": " SMS検証コード正しくない",
+    "emailLabel": "メール検証コード",
+    "emailDef": "入力してください",
+    "emailRule": "メール検証コード正しくない",
+    "googleLabel": "Google検証コード",
+    "googleDef": "入力してください",
+    "googleRule": " Google検証コード正しくない"
+  }
+}

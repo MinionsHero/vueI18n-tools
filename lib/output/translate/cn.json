@@ -1,0 +1,15 @@
+{
+  "58main": {
+    "keywords.ads": "发布洗脑广告",
+    "keywords.buyAds": "购买洗脑广告"
+  },
+  "58main-account": {
+    "transfer.pwdDef": "敬请输入资金密码",
+    "transfer.smsDef": "敬请输入短信验证码",
+    "transfer.emailDef": "敬请输入邮箱验证码",
+    "transfer.googleDef": "敬请输入谷歌验证码"
+  },
+  "58new-otc": {
+    "blacklist.text2": "加入黑名单后将对该用户隐藏所有您的洗脑广告单"
+  }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Please enter",
+    "keys": [
+      {
+        "projectName": "58main-account",
+        "lang": "en",
+        "key": "transfer.pwdDef"
+      },
+      {
+        "projectName": "58main-account",
+        "lang": "en",
+        "key": "transfer.smsDef"
+      },
+      {
+        "projectName": "58main-account",
+        "lang": "en",
+        "key": "transfer.emailDef"
+      },
+      {
+        "projectName": "58main-account",
+        "lang": "en",
+        "key": "transfer.googleDef"
+      }
+    ]
+  },
+  {
+    "value": "入力してください",
+    "keys": [
+      {
+        "projectName": "58main-account",
+        "lang": "ja",
+        "key": "transfer.pwdDef"
+      },
+      {
+        "projectName": "58main-account",
+        "lang": "ja",
+        "key": "transfer.smsDef"
+      },
+      {
+        "projectName": "58main-account",
+        "lang": "ja",
+        "key": "transfer.emailDef"
+      },
+      {
+        "projectName": "58main-account",
+        "lang": "ja",
+        "key": "transfer.googleDef"
+      }
+    ]
+  },
+  {
+    "value": "Получить код",
+    "keys": [
+      {
+        "projectName": "58main-account",
+        "lang": "ru",
+        "key": "transfer.smsDef"
+      },
+      {
+        "projectName": "58main-account",
+        "lang": "ru",
+        "key": "transfer.emailDef"
+      }
+    ]
+  }
+]

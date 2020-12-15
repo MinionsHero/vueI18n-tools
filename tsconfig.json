@@ -1,0 +1,66 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2015",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "types": [
+      "node"
+    ],
+    "paths": {
+      "demo/*": [
+        "demo/*"
+      ],
+      "lib/*": [
+        "lib/*"
+      ],
+      "@/*": [
+        "src/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@mixins/*": [
+        "src/mixins/*"
+      ],
+      "@components/*": [
+        "src/components/*"
+      ]
+    },
+    "lib": [
+      "esnext",
+      "dom",
+      "dom.iterable",
+      "scripthost"
+    ]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "demo/**/*.ts",
+    "demo/**/*.d.ts",
+    "demo/**/*.tsx",
+    "demo/**/*.vue"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "./types/shims-vue.d.ts",
+    "./types/shims-tsx.d.ts",
+    "./types/shims-scss.d.ts"
+  ],
+  "types": "./types/main.d.ts"
+}

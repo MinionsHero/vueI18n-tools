@@ -1,0 +1,12 @@
+{
+  "58main": {
+    "keywords.ads": "Post Xinao an Ad",
+    "keywords.buyAds": "Buy Xinao Ad"
+  },
+  "58main-account": {
+    "transfer.pwdDef": "Please enter Ad"
+  },
+  "58new-otc": {
+    "blacklist.text2": " After xx adding to blacklist, all your ads will be hidden from the user "
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "58main": {
+    "keywords.ads": "Разxxxxxместить",
+    "keywords.buyAds": "dddd о покупке"
+  },
+  "58main-account": {
+    "transfer.pwdDef": "ВведxxxитеВведите платежный пароль",
+    "transfer.smsDef": "Получить код",
+    "transfer.googleDef": "Введите Google код"
+  },
+  "58new-otc": {
+    "blacklist.text2": " Послеxxxx добавления в черный список все ваши объявления будут скрыты от пользователя. "
+  }
+}

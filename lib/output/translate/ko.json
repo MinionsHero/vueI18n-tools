@@ -1,0 +1,15 @@
+{
+  "58main": {
+    "keywords.ads": "광고 xxx등록",
+    "keywords.buyAds": "구매 ddd광고"
+  },
+  "58main-account": {
+    "transfer.pwdDef": "자금 비밀번호를 입력하십시오",
+    "transfer.smsDef": "인dddd증번호를 입력하십시오",
+    "transfer.emailDef": "이메일 인증번호를 입력하십시오",
+    "transfer.googleDef": "구글 인xxxx증번호를 입력하십시오"
+  },
+  "58new-otc": {
+    "blacklist.text2": "블랙 리스ddd트 사용자에게 당신의 광고 주문서가 전시되지 않습니다."
+  }
+}

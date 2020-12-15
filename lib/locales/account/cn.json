@@ -1,0 +1,16 @@
+{
+  "transfer": {
+    "pwdLabel": "资金密码",
+    "pwdDef": "请输入资金密码",
+    "pwdRule": "资金密码错误",
+    "smsLabel": "短信验证码",
+    "smsDef": "请输入短信验证码",
+    "smsRule": "短信验证码错误",
+    "emailLabel": "邮箱验证码",
+    "emailDef": "请输入邮箱验证码",
+    "emailRule": "邮箱验证码错误",
+    "googleLabel": "谷歌验证码",
+    "googleDef": "请输入谷歌验证码",
+    "googleRule": "谷歌验证码错误"
+  }
+}

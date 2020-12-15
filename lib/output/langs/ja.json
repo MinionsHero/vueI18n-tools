@@ -1,0 +1,12 @@
+{
+  "58main": {
+    "keywords.ads": "広告発表",
+    "keywords.buyAds": "購入広告"
+  },
+  "58main-account": {
+    "transfer.pwdDef": "入力してください"
+  },
+  "58new-otc": {
+    "blacklist.text2": "ブラックリストに追加したユーザーに、あなたの全ての広告注文を非表示になります"
+  }
+}
